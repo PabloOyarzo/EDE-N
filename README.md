@@ -10,27 +10,19 @@
 4. Summary del análisis, conjunto con visualización de la data. Todo a dashboard hosted
 
 ## Ask Phase: Statement of the Business Task
-The primary business task is to design marketing strategies aimed at converting casual riders into annual members. To achieve this, we will explore how annual members and casual riders use Cyclistic bikes differently, why casual riders would be interested in purchasing annual memberships, and how digital media could influence their decision to become members. The insights gained from this analysis will help guide targeted marketing efforts towards casual riders.
-
-Questions to Guide the Analysis:
-How do annual members and casual riders use Cyclistic bikes differently?
-Why would casual riders buy Cyclistic annual memberships?
-How can Cyclistic use digital media to influence casual riders to become members?
-Primary Stakeholders:
-Lily Moreno - Director of Marketing.
-Cyclistic Executive Team.
-Secondary Stakeholders:
-Marketing Analytics Team (my crew 😛)
-
-## Ask Phase: Statement of the Business Task
 
 The primary business task is to design marketing strategies aimed at converting casual riders into annual members. To achieve this, we will explore how annual members and casual riders use Cyclistic bikes differently, why casual riders would be interested in purchasing annual memberships, and how digital media could influence their decision to become members. The insights gained from this analysis will help guide targeted marketing efforts towards casual riders.
 
 ### Questions to Guide the Analysis:
 
-1. How do annual members and casual riders use Cyclistic bikes differently?
-2. Why would casual riders buy Cyclistic annual memberships?
-3. How can Cyclistic use digital media to influence casual riders to become members?
+1. Cuáles sectores y provincias tienen más incidencia en el programa de mantenimiento? Por qué? 
+2. Hay desarrollo de infraestuctura en estas áreas con alta incidencia?
+3. Cuáles son las áreas con menos incidencia? Por qué?
+4. Hay temporadas altas en el programa de mantenimiento?
+5. Día de la semana y hora del día con mayor incidencia de mantenimientos programados?
+6. Cuáles son las áreas que acumulan un mayor tiempo de mantenimiento en el programa?
+7. Correlación con actividad comercial en el área? Potencia media por zona, gasto de combustible, cantidad de colegios, plazas comerciales, hospitales, y otras infraestructuras.
+8. Puntualidad en el horario del mantenimiento programado.
 
 ### Primary Stakeholders:
 
