@@ -63,6 +63,11 @@ The dataset covers bike trip data from June 2022 to June 2023, comprising a subs
 
 Each of the CSV files contain 13 columns. The variables include ride_id (character), rideable_type (character), started_at (date and time), ended_at (date and time), start_station_name (character), among others. The data represents information about individual bike trips, including details like ride identifiers, bike type, timestamps for starting and ending trips, station names and IDs, including geological data, and whether the rider is a casual or member customer.
 
+### Fuentes de datos adicionales
+
+- **Circuitos eléctricos:** Nomenclatura y ubicación de los circuitos obtenida del portal oficial de CUED. [Acceder aquí](https://circuitos.cued.gob.do/Circuitos).
+- **Programa de mantenimiento – EDEESTE:** Información sobre el programa de mantenimiento programado de EDEESTE. [Acceder aquí](https://edeeste.com.do/index.php/programa-de-mantenimiento/).
+
 ### Generating the data
 
 
